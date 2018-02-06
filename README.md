@@ -45,3 +45,4 @@ docker run -p 8666:8666 default/vertx-scala-sbt
 ```
 
 Point your browser to [http://127.0.0.1:8666/hello](http://127.0.0.1:8666/hello) and enjoy :)
+# vertx-scala-todomvc
