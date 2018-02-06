@@ -1,3 +1,4 @@
+# vertx-scala-todomvc
 This is a quickstart for a Vert.x Scala project. It provides a few examples for doing 
 unit-tests.
 
@@ -41,8 +42,7 @@ sbt docker
 To run use
 
 ```
-docker run -p 8666:8666 default/vertx-scala-sbt
+docker run -p 8080:8080 default/vertx-scala-todomvc
 ```
 
-Point your browser to [http://127.0.0.1:8666/hello](http://127.0.0.1:8666/hello) and enjoy :)
-# vertx-scala-todomvc
+Point your browser to [http://127.0.0.1:8080](http://127.0.0.1:8080) and enjoy :)
